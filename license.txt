@@ -1,0 +1,11 @@
+Model Information:
+* title:	SOFA BOCA TOMMY OBJ
+* source:	https://sketchfab.com/3d-models/sofa-boca-tommy-obj-48871df8823e47c9bd0886e202f7483e
+* author:	akezhan2705 (https://sketchfab.com/akezhan2705)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SOFA BOCA TOMMY OBJ" (https://sketchfab.com/3d-models/sofa-boca-tommy-obj-48871df8823e47c9bd0886e202f7483e) by akezhan2705 (https://sketchfab.com/akezhan2705) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
